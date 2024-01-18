@@ -3,7 +3,7 @@ A weather API project made with Python, Django, Mysql
 To setup the project follow these steps:
 
  1. clone the Repository
- 2. create virtual environment on your system, install requirements.txt packages using command "pip install -m requirements.txt"
+ 2. create virtual environment on your system, install requirements.txt packages using command "pip install -r requirements.txt"
  3. setup mysql by creating a schema and adding the db details in settings.py file and run migrations and migrate commands
  4. start the server with "python manage.py runserver"
  5. access the app at "http://127.0.0.1:8000"
